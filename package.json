@@ -33,7 +33,7 @@
   "author": "JP Richardson <jprichardson@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "graceful-fs": "^4.1.2",
+    "graceful-fs": "git+https://github.com/ahmedalsudani/node-graceful-fs.git",
     "jsonfile": "^2.1.0",
     "klaw": "^1.0.0",
     "path-is-absolute": "^1.0.0",
